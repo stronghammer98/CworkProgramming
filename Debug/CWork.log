@@ -1,0 +1,35 @@
+﻿  cGame.cpp
+c:\users\scott\desktop\courseworkprog\cwork\cwork\cwork\cgame.cpp(43): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\scott\desktop\courseworkprog\cwork\cwork\cwork\cgame.cpp(58): warning C4018: '<': signed/unsigned mismatch
+c:\users\scott\desktop\courseworkprog\cwork\cwork\cwork\cgame.cpp(65): warning C4018: '<': signed/unsigned mismatch
+c:\users\scott\desktop\courseworkprog\cwork\cwork\cwork\cgame.cpp(79): warning C4018: '<': signed/unsigned mismatch
+c:\users\scott\desktop\courseworkprog\cwork\cwork\cwork\cgame.cpp(83): warning C4018: '<': signed/unsigned mismatch
+c:\users\scott\desktop\courseworkprog\cwork\cwork\cwork\cgame.cpp(99): warning C4018: '<': signed/unsigned mismatch
+c:\users\scott\desktop\courseworkprog\cwork\cwork\cwork\cgame.cpp(125): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\scott\desktop\courseworkprog\cwork\cwork\cwork\cgame.cpp(125): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\scott\desktop\courseworkprog\cwork\cwork\cwork\cgame.cpp(196): warning C4018: '<': signed/unsigned mismatch
+c:\users\scott\desktop\courseworkprog\cwork\cwork\cwork\cgame.cpp(201): warning C4018: '<': signed/unsigned mismatch
+  CWork.vcxproj -> C:\Users\scott\Desktop\CourseworkProg\Cwork\CWork\Debug\CWork.exe
+  CWork.vcxproj -> C:\Users\scott\Desktop\CourseworkProg\Cwork\CWork\Debug\CWork.pdb (Partial PDB)
+  copying SDL2.dll to debug directory
+  C:\Users\scott\Desktop\SDL2\SDL2-2.0.4\lib\x86\SDL2.dll
+  1 File(s) copied
+  C:\Users\scott\Desktop\SDL2\SDL2_image-2.0.1\lib\x86\libjpeg-9.dll
+  C:\Users\scott\Desktop\SDL2\SDL2_image-2.0.1\lib\x86\libpng16-16.dll
+  C:\Users\scott\Desktop\SDL2\SDL2_image-2.0.1\lib\x86\libtiff-5.dll
+  C:\Users\scott\Desktop\SDL2\SDL2_image-2.0.1\lib\x86\libwebp-4.dll
+  C:\Users\scott\Desktop\SDL2\SDL2_image-2.0.1\lib\x86\SDL2_image.dll
+  C:\Users\scott\Desktop\SDL2\SDL2_image-2.0.1\lib\x86\zlib1.dll
+  6 File(s) copied
+  C:\Users\scott\Desktop\SDL2\SDL2_ttf-2.0.14\lib\x86\libfreetype-6.dll
+  C:\Users\scott\Desktop\SDL2\SDL2_ttf-2.0.14\lib\x86\SDL2_ttf.dll
+  C:\Users\scott\Desktop\SDL2\SDL2_ttf-2.0.14\lib\x86\zlib1.dll
+  3 File(s) copied
+  C:\Users\scott\Desktop\SDL2\SDL2_mixer-2.0.1\lib\x86\libFLAC-8.dll
+  C:\Users\scott\Desktop\SDL2\SDL2_mixer-2.0.1\lib\x86\libmodplug-1.dll
+  C:\Users\scott\Desktop\SDL2\SDL2_mixer-2.0.1\lib\x86\libogg-0.dll
+  C:\Users\scott\Desktop\SDL2\SDL2_mixer-2.0.1\lib\x86\libvorbis-0.dll
+  C:\Users\scott\Desktop\SDL2\SDL2_mixer-2.0.1\lib\x86\libvorbisfile-3.dll
+  C:\Users\scott\Desktop\SDL2\SDL2_mixer-2.0.1\lib\x86\SDL2_mixer.dll
+  C:\Users\scott\Desktop\SDL2\SDL2_mixer-2.0.1\lib\x86\smpeg2.dll
+  7 File(s) copied
